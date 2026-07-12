@@ -99,7 +99,9 @@ learning opportunities;
 reputation;
 decision rights;
 long-term participation rights.
-Subject Formation
+
+
+## Subject Formation
 
 A functional subject is not created merely by assigning a role or combining several tools.
 
@@ -126,7 +128,8 @@ new tools alter production structure;
 responsibility can be reassigned;
 a formerly stable system becomes inefficient;
 a temporary collaboration develops persistent functional continuity.
-Relationship to Existing Mechanisms
+
+## Relationship to Existing Mechanisms
 
 Functional Subject Theory is not itself a single allocation or governance mechanism.
 
@@ -154,7 +157,7 @@ Subject ontology
 
 Markets, mechanism design, capability approaches, transaction-cost economics, and polycentric governance may all be incorporated into the theory without being replaced by it.
 
-Research Questions
+## Research Questions
 
 The project currently focuses on several unresolved questions:
 
@@ -168,7 +171,8 @@ How can functional subjects be prevented from developing permanent power, monopo
 How should legal responsibility pass through AI, human, organizational, and technical components?
 Which existing organizations are already evolving toward functional subjects?
 Under what conditions are functional subjects more efficient or more legitimate than traditional firms and institutions?
-Repository Status
+
+## Repository Status
 Theory status: Draft
 Current theory version: 0.1
 Original theory language: Chinese
@@ -177,7 +181,7 @@ Primary focus: Core definitions, subject formation, subject boundaries, price fo
 
 The repository will preserve the development history of the theory through Git commits, versioned documents, and public discussion.
 
-Planned Documentation
+## Planned Documentation
 docs/
 ├─ theory/
 ├─ comparisons/
@@ -195,7 +199,8 @@ price and exchange;
 relationships with existing theories;
 failure modes;
 open research questions.
-Contribution
+
+## Contribution
 
 The theory is under active development.
 
@@ -207,6 +212,7 @@ empirical evidence;
 implementation proposals;
 independent extensions.
 
-License
+## License
+
 Documentation is intended to be released under the Creative Commons Attribution 4.0 International License.
 Source code, simulations, and software tools added in the future may use a separate software license.
